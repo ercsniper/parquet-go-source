@@ -20,6 +20,5 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.8.0
-	github.com/xitongsys/parquet-go-source v0.0.0-20230919034749-0b16411e6349 // indirect
 	gocloud.dev v0.26.0
 )
