@@ -19,6 +19,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.7.1
-	github.com/ercsniper/parquet-go v1.6.3
+	github.com/ercsniper/parquet-go v1.6.5
 	gocloud.dev v0.26.0
 )
