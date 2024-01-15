@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/xitongsys/parquet-go-source/http"
-	"github.com/xitongsys/parquet-go/reader"
+	"github.com/ercsniper/parquet-go-source/http"
+	"github.com/ercsniper/parquet-go/reader"
 )
 
 func main() {

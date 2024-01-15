@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xitongsys/parquet-go/source"
+	"github.com/ercsniper/parquet-go/source"
 )
 
 type HttpReader struct {

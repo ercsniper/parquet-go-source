@@ -1,4 +1,4 @@
-module github.com/xitongsys/parquet-go-source
+module github.com/ercsniper/parquet-go-source
 
 go 1.16
 
@@ -19,6 +19,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.7.1
-	github.com/xitongsys/parquet-go v1.5.1
+	github.com/ercsniper/parquet-go v1.6.3
 	gocloud.dev v0.26.0
 )

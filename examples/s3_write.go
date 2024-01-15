@@ -4,9 +4,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/xitongsys/parquet-go-source/s3"
-	"github.com/xitongsys/parquet-go/reader"
-	"github.com/xitongsys/parquet-go/writer"
+	"github.com/ercsniper/parquet-go-source/s3"
+	"github.com/ercsniper/parquet-go/reader"
+	"github.com/ercsniper/parquet-go/writer"
 )
 
 type student struct {
