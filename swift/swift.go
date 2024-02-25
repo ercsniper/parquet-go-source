@@ -1,8 +1,8 @@
 package swiftsource
 
 import (
-	"github.com/ercsniper/parquet-go/source"
 	"github.com/ncw/swift"
+	"github.com/zyreio/parquet-go/source"
 )
 
 type SwiftFile struct {

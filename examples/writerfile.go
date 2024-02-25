@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/ercsniper/parquet-go-source/writerfile"
-	"github.com/ercsniper/parquet-go/parquet"
-	"github.com/ercsniper/parquet-go/writer"
+	"github.com/zyreio/parquet-go-source/writerfile"
+	"github.com/zyreio/parquet-go/parquet"
+	"github.com/zyreio/parquet-go/writer"
 )
 
 type Student struct {

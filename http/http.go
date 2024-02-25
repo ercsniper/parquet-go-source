@@ -4,7 +4,7 @@ import (
 	"errors"
 	"mime/multipart"
 
-	"github.com/ercsniper/parquet-go/source"
+	"github.com/zyreio/parquet-go/source"
 )
 
 type MultipartFileWrapper struct {

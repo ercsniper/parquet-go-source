@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/ercsniper/parquet-go-source/hdfs"
-	"github.com/ercsniper/parquet-go/reader"
-	"github.com/ercsniper/parquet-go/writer"
+	"github.com/zyreio/parquet-go-source/hdfs"
+	"github.com/zyreio/parquet-go/reader"
+	"github.com/zyreio/parquet-go/writer"
 )
 
 type Student struct {

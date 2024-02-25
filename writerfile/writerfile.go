@@ -3,7 +3,7 @@ package writerfile
 import (
 	"io"
 
-	"github.com/ercsniper/parquet-go/source"
+	"github.com/zyreio/parquet-go/source"
 )
 
 type WriterFile struct {

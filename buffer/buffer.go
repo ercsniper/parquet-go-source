@@ -4,7 +4,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ercsniper/parquet-go/source"
+	"github.com/zyreio/parquet-go/source"
 )
 
 // BufferFile allows reading parquet messages from a memory buffer.

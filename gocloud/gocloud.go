@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/ercsniper/parquet-go/source"
 	"github.com/pkg/errors"
+	"github.com/zyreio/parquet-go/source"
 	"gocloud.dev/blob"
 )
 

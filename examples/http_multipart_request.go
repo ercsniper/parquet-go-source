@@ -10,8 +10,8 @@ import (
 	"os"
 	"path/filepath"
 
-	source "github.com/ercsniper/parquet-go-source/http"
-	"github.com/ercsniper/parquet-go/reader"
+	source "github.com/zyreio/parquet-go-source/http"
+	"github.com/zyreio/parquet-go/reader"
 )
 
 type Student struct {

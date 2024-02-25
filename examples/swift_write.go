@@ -5,11 +5,11 @@ import (
 	"log"
 	"time"
 
-	"github.com/ercsniper/parquet-go/reader"
-	"github.com/ercsniper/parquet-go/writer"
 	"github.com/ncw/swift"
+	"github.com/zyreio/parquet-go/reader"
+	"github.com/zyreio/parquet-go/writer"
 
-	swiftsource "github.com/ercsniper/parquet-go-source/swift"
+	swiftsource "github.com/zyreio/parquet-go-source/swift"
 )
 
 type Student struct {

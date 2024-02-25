@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ercsniper/parquet-go/source"
 	"github.com/minio/minio-go/v7"
+	"github.com/zyreio/parquet-go/source"
 )
 
 // MinioFile is ParquetFile for MinIO S3 API

@@ -3,7 +3,7 @@ package local
 import (
 	"os"
 
-	"github.com/ercsniper/parquet-go/source"
+	"github.com/zyreio/parquet-go/source"
 )
 
 type LocalFile struct {
