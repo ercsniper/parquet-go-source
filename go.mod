@@ -13,7 +13,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.3
 	github.com/bobg/gcsobj v0.1.2
 	github.com/colinmarc/hdfs/v2 v2.1.1
-	github.com/zyreio/parquet-go v1.6.6
+	github.com/zyreio/parquet-go v1.6.9
 	github.com/golang/mock v1.6.0
 	github.com/minio/minio-go/v7 v7.0.34
 	github.com/ncw/swift v1.0.52
